@@ -1,0 +1,14 @@
+  
+{
+	"database": "AssetFtar",
+	"username": "root",
+	"password": "root",
+	"dialect": "mysql",
+	"storage": "db.db",
+	"define": {
+		"freezeTableName": "true",
+		"paranoid": "true"
+	},
+	"logging": true,
+	"operatorsAliases": false
+}
